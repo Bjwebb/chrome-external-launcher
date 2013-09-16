@@ -1,0 +1,3 @@
+[submodule "uGetIntegration"]
+	path = uGetIntegration
+	url = https://github.com/repinel/uGetIntegration.git
